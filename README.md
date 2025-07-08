@@ -95,7 +95,7 @@ These tables contain information about:
 
 ## 📂 Project Assets
 
-- 📑 SQL queries & analysis (Notebooks or scripts - optional if available)
+- 📑 SQL queries & analysis (Notebooks)
 - 🧾 Data Dictionary (Explains table fields)
 - 📽️ Final PPT Presentation (Summary of all analysis and visuals)
 
