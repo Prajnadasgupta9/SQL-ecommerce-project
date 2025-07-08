@@ -97,8 +97,8 @@ These tables contain information about:
 
 - 📑 SQL queries & analysis (Notebooks)
 - 🧾 Data Dictionary (Explains table fields)
-- 📽️ Final PPT Presentation (Summary of all analysis and visuals)
-
+- 📽️ Final PPT Presentation (Summary of all analysis and visuals) 
+link : https://docs.google.com/presentation/d/1jnCR77vpMFjvnvG-DPqlvMbuvhjGL4LY/edit?usp=sharing&ouid=100496991439504625474&rtpof=true&sd=true
 
 ---
 
